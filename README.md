@@ -4,6 +4,7 @@
 - Old: 29
 - Country: Germany 🇩🇪
 - Discord: d3r_jan
+![CatTypingGIF](https://github.com/JanGastmann/JanGastmann/assets/140593990/2982890d-27fc-46ea-96fc-a2a52671e168)
 
 
 
